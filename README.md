@@ -21,7 +21,7 @@ Check back for more.
 This was mainly created for Tridentu Linux's Mast TDE (Terminal Desktop Environment),
 but can be adapted to other distros (as long as tmux is supported).
 
-# How to install?
+## How to install?
 
 Just use TPM (Tmux Plugin Manager). The link will be below to the repository, but TPM (when you insert the line to install this plugin) 
 makes things much easier to handle regarding TMUX Plugins and allows for the automatic updating of this plugin (as well as many others out there).
